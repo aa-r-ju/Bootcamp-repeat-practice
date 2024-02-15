@@ -6,3 +6,4 @@ function simpleSum(num1,num2) {
 }
 simpleSum(10, 20)
 simpleSum(5, 10);
+     
