@@ -9,5 +9,5 @@ function greeting(name) {
 
 }
 
-console.log(greeting('Sadie')); // => Hello Sadie!
-console.log(greeting()); 
+greeting('Sadie'); 
+greeting(); 
